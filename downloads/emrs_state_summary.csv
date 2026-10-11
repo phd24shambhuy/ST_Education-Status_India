@@ -1,0 +1,113 @@
+state_code,state_name,reference_period,functional_emrs,functional_source,sanctioned_emrs,sanctioned_source,non_functional_emrs,functional_value_status,sanctioned_value_status,functional_share_of_sanctioned_pct,share_status,buildings_completed_old,buildings_completed_new,buildings_under_construction_old,buildings_under_construction_new,buildings_yet_to_start_old,buildings_yet_to_start_new,sanctioned_old_art275,sanctioned_new_scheme,construction_source
+AP,Andhra Pradesh,2020-21,19.0,AR2020-21_H_statewise_list,26.0,AR2020-21_H_statewise_list (total listed),7.0,reported,reported,73.1,computed,,,,,,,,,
+AR,Arunachal Pradesh,2020-21,2.0,AR2020-21_H_statewise_list,10.0,AR2020-21_H_statewise_list (total listed),8.0,reported,reported,20.0,computed,,,,,,,,,
+AS,Assam,2020-21,1.0,AR2020-21_H_statewise_list,10.0,AR2020-21_H_statewise_list (total listed),9.0,reported,reported,10.0,computed,,,,,,,,,
+BR,Bihar,2020-21,0.0,,3.0,AR2020-21_H_statewise_list (total listed),3.0,printed '-'; zero implied by printed identity functional + non-functional = total,reported,0.0,computed,,,,,,,,,
+CT,Chhattisgarh,2020-21,71.0,AR2020-21_H_statewise_list,71.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+DH,Dadra and Nagar Haveli and Daman and Diu,2020-21,1.0,AR2020-21_H_statewise_list,1.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+GJ,Gujarat,2020-21,34.0,AR2020-21_H_statewise_list,35.0,AR2020-21_H_statewise_list (total listed),1.0,reported,reported,97.1,computed,,,,,,,,,
+HP,Himachal Pradesh,2020-21,4.0,AR2020-21_H_statewise_list,4.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+JH,Jharkhand,2020-21,7.0,AR2020-21_H_statewise_list,79.0,AR2020-21_H_statewise_list (total listed),72.0,reported,reported,8.9,computed,,,,,,,,,
+JK,Jammu and Kashmir,2020-21,0.0,,6.0,AR2020-21_H_statewise_list (total listed),6.0,printed '-'; zero implied by printed identity functional + non-functional = total,reported,0.0,computed,,,,,,,,,
+KA,Karnataka,2020-21,12.0,AR2020-21_H_statewise_list,12.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+KL,Kerala,2020-21,2.0,AR2020-21_H_statewise_list,4.0,AR2020-21_H_statewise_list (total listed),2.0,reported,reported,50.0,computed,,,,,,,,,
+LA,Ladakh,2020-21,0.0,,2.0,AR2020-21_H_statewise_list (total listed),2.0,printed '-'; zero implied by printed identity functional + non-functional = total,reported,0.0,computed,,,,,,,,,
+MH,Maharashtra,2020-21,25.0,AR2020-21_H_statewise_list,30.0,AR2020-21_H_statewise_list (total listed),5.0,reported,reported,83.3,computed,,,,,,,,,
+ML,Meghalaya,2020-21,0.0,,15.0,AR2020-21_H_statewise_list (total listed),15.0,printed '-'; zero implied by printed identity functional + non-functional = total,reported,0.0,computed,,,,,,,,,
+MN,Manipur,2020-21,3.0,AR2020-21_H_statewise_list,15.0,AR2020-21_H_statewise_list (total listed),12.0,reported,reported,20.0,computed,,,,,,,,,
+MP,Madhya Pradesh,2020-21,63.0,AR2020-21_H_statewise_list,63.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+MZ,Mizoram,2020-21,6.0,AR2020-21_H_statewise_list,17.0,AR2020-21_H_statewise_list (total listed),11.0,reported,reported,35.3,computed,,,,,,,,,
+NL,Nagaland,2020-21,3.0,AR2020-21_H_statewise_list,19.0,AR2020-21_H_statewise_list (total listed),16.0,reported,reported,15.8,computed,,,,,,,,,
+OR,Odisha,2020-21,27.0,AR2020-21_H_statewise_list,70.0,AR2020-21_H_statewise_list (total listed),43.0,reported,reported,38.6,computed,,,,,,,,,
+RJ,Rajasthan,2020-21,21.0,AR2020-21_H_statewise_list,30.0,AR2020-21_H_statewise_list (total listed),9.0,reported,reported,70.0,computed,,,,,,,,,
+SK,Sikkim,2020-21,4.0,AR2020-21_H_statewise_list,4.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+TG,Telangana,2020-21,23.0,AR2020-21_H_statewise_list,23.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+TN,Tamil Nadu,2020-21,8.0,AR2020-21_H_statewise_list,8.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+TR,Tripura,2020-21,5.0,AR2020-21_H_statewise_list,16.0,AR2020-21_H_statewise_list (total listed),11.0,reported,reported,31.2,computed,,,,,,,,,
+UP,Uttar Pradesh,2020-21,2.0,AR2020-21_H_statewise_list,4.0,AR2020-21_H_statewise_list (total listed),2.0,reported,reported,50.0,computed,,,,,,,,,
+UT,Uttarakhand,2020-21,3.0,AR2020-21_H_statewise_list,3.0,AR2020-21_H_statewise_list (total listed),0.0,reported,reported,100.0,computed,,,,,,,,,
+WB,West Bengal,2020-21,7.0,AR2020-21_H_statewise_list,8.0,AR2020-21_H_statewise_list (total listed),1.0,reported,reported,87.5,computed,,,,,,,,,
+AP,Andhra Pradesh,2021-22,28.0,AR2021-22_K_statewise_list,28.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,7.0,0.0,7.0,9.0,0.0,5.0,14.0,14.0,AR2021-22_T4.2_construction
+AR,Arunachal Pradesh,2021-22,2.0,AR2021-22_K_statewise_list,10.0,AR2021-22_T4.2_construction (Total/Total column),8.0,reported,reported,20.0,computed,2.0,0.0,5.0,0.0,0.0,3.0,7.0,3.0,AR2021-22_T4.2_construction
+AS,Assam,2021-22,1.0,AR2021-22_K_statewise_list,10.0,AR2021-22_T4.2_construction (Total/Total column),9.0,reported,reported,10.0,computed,0.0,0.0,4.0,1.0,0.0,5.0,4.0,6.0,AR2021-22_T4.2_construction
+BR,Bihar,2021-22,0.0,AR2021-22_K_statewise_list,3.0,AR2021-22_T4.2_construction (Total/Total column),3.0,reported,reported,0.0,computed,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,AR2021-22_T4.2_construction
+CT,Chhattisgarh,2021-22,71.0,AR2021-22_K_statewise_list,73.0,AR2021-22_T4.2_construction (Total/Total column),2.0,reported,reported,97.3,computed,24.0,0.0,1.0,8.0,0.0,40.0,25.0,48.0,AR2021-22_T4.2_construction
+DH,Dadra and Nagar Haveli and Daman and Diu,2021-22,1.0,AR2021-22_K_statewise_list,1.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,AR2021-22_T4.2_construction
+GJ,Gujarat,2021-22,35.0,AR2021-22_K_statewise_list,41.0,AR2021-22_T4.2_construction (Total/Total column),6.0,reported,reported,85.4,computed,21.0,0.0,4.0,0.0,3.0,13.0,28.0,13.0,AR2021-22_T4.2_construction
+HP,Himachal Pradesh,2021-22,4.0,AR2021-22_K_statewise_list,4.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,1.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,AR2021-22_T4.2_construction
+JH,Jharkhand,2021-22,7.0,AR2021-22_K_statewise_list,87.0,AR2021-22_T4.2_construction (Total/Total column),80.0,reported,reported,8.0,computed,13.0,0.0,9.0,31.0,1.0,33.0,23.0,64.0,AR2021-22_T4.2_construction
+JK,Jammu and Kashmir,2021-22,0.0,AR2021-22_K_statewise_list,6.0,AR2021-22_T4.2_construction (Total/Total column),6.0,reported,reported,0.0,computed,2.0,0.0,2.0,0.0,2.0,0.0,6.0,0.0,AR2021-22_T4.2_construction
+KA,Karnataka,2021-22,12.0,AR2021-22_K_statewise_list,12.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,12.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,AR2021-22_T4.2_construction
+KL,Kerala,2021-22,2.0,AR2021-22_K_statewise_list,4.0,AR2021-22_T4.2_construction (Total/Total column),2.0,reported,reported,50.0,computed,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,AR2021-22_T4.2_construction
+LA,Ladakh,2021-22,0.0,AR2021-22_K_statewise_list,3.0,AR2021-22_T4.2_construction (Total/Total column),3.0,reported,reported,0.0,computed,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,AR2021-22_T4.2_construction
+MH,Maharashtra,2021-22,31.0,AR2021-22_K_statewise_list,36.0,AR2021-22_T4.2_construction (Total/Total column),5.0,reported,reported,86.1,computed,11.0,0.0,2.0,4.0,5.0,14.0,18.0,18.0,AR2021-22_T4.2_construction
+ML,Meghalaya,2021-22,0.0,AR2021-22_K_statewise_list,27.0,AR2021-22_T4.2_construction (Total/Total column),27.0,reported,reported,0.0,computed,0.0,0.0,2.0,0.0,0.0,25.0,2.0,25.0,AR2021-22_T4.2_construction
+MN,Manipur,2021-22,3.0,AR2021-22_K_statewise_list,21.0,AR2021-22_T4.2_construction (Total/Total column),18.0,reported,reported,14.3,computed,3.0,0.0,3.0,0.0,0.0,15.0,6.0,15.0,AR2021-22_T4.2_construction
+MP,Madhya Pradesh,2021-22,63.0,AR2021-22_K_statewise_list,69.0,AR2021-22_T4.2_construction (Total/Total column),6.0,reported,reported,91.3,computed,31.0,0.0,1.0,14.0,0.0,23.0,32.0,37.0,AR2021-22_T4.2_construction
+MZ,Mizoram,2021-22,6.0,AR2021-22_K_statewise_list,17.0,AR2021-22_T4.2_construction (Total/Total column),11.0,reported,reported,35.3,computed,6.0,0.0,0.0,5.0,0.0,6.0,6.0,11.0,AR2021-22_T4.2_construction
+NL,Nagaland,2021-22,3.0,AR2021-22_K_statewise_list,22.0,AR2021-22_T4.2_construction (Total/Total column),19.0,reported,reported,13.6,computed,3.0,0.0,2.0,17.0,0.0,0.0,5.0,17.0,AR2021-22_T4.2_construction
+OR,Odisha,2021-22,27.0,AR2021-22_K_statewise_list,104.0,AR2021-22_T4.2_construction (Total/Total column),77.0,reported,reported,26.0,computed,27.0,0.0,0.0,33.0,0.0,44.0,27.0,77.0,AR2021-22_T4.2_construction
+RJ,Rajasthan,2021-22,30.0,AR2021-22_K_statewise_list,31.0,AR2021-22_T4.2_construction (Total/Total column),1.0,reported,reported,96.8,computed,17.0,0.0,1.0,12.0,0.0,1.0,18.0,13.0,AR2021-22_T4.2_construction
+SK,Sikkim,2021-22,4.0,AR2021-22_K_statewise_list,4.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,AR2021-22_T4.2_construction
+TG,Telangana,2021-22,23.0,AR2021-22_K_statewise_list,23.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,11.0,0.0,0.0,10.0,0.0,2.0,11.0,12.0,AR2021-22_T4.2_construction
+TN,Tamil Nadu,2021-22,8.0,AR2021-22_K_statewise_list,8.0,AR2021-22_T4.2_construction (Total/Total column),0.0,reported,reported,100.0,computed,2.0,0.0,5.0,0.0,0.0,1.0,7.0,1.0,AR2021-22_T4.2_construction
+TR,Tripura,2021-22,5.0,AR2021-22_K_statewise_list,21.0,AR2021-22_T4.2_construction (Total/Total column),16.0,reported,reported,23.8,computed,4.0,0.0,3.0,8.0,0.0,6.0,7.0,14.0,AR2021-22_T4.2_construction
+UP,Uttar Pradesh,2021-22,2.0,AR2021-22_K_statewise_list,4.0,AR2021-22_T4.2_construction (Total/Total column),2.0,reported,reported,50.0,computed,2.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,AR2021-22_T4.2_construction
+UT,Uttarakhand,2021-22,3.0,AR2021-22_K_statewise_list,4.0,AR2021-22_T4.2_construction (Total/Total column),1.0,reported,reported,75.0,computed,1.0,0.0,1.0,0.0,1.0,1.0,3.0,1.0,AR2021-22_T4.2_construction
+WB,West Bengal,2021-22,7.0,AR2021-22_K_statewise_list,8.0,AR2021-22_T4.2_construction (Total/Total column),1.0,reported,reported,87.5,computed,7.0,0.0,1.0,0.0,0.0,0.0,8.0,0.0,AR2021-22_T4.2_construction
+AP,Andhra Pradesh,2022-23,28.0,AR2022-23_K_functional,28.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,7.0,5.0,7.0,4.0,0.0,5.0,14.0,14.0,AR2022-23_T5.4_construction
+AR,Arunachal Pradesh,2022-23,3.0,AR2022-23_K_functional,10.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,30.0,computed,5.0,0.0,2.0,0.0,0.0,3.0,7.0,3.0,AR2022-23_T5.4_construction
+AS,Assam,2022-23,1.0,AR2022-23_K_functional,14.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,7.1,computed,0.0,0.0,4.0,3.0,0.0,7.0,4.0,10.0,AR2022-23_T5.4_construction
+BR,Bihar,2022-23,0.0,AR2022-23_K_functional,3.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,0.0,computed,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,AR2022-23_T5.4_construction
+CT,Chhattisgarh,2022-23,73.0,AR2022-23_K_functional,74.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,98.6,computed,25.0,0.0,0.0,11.0,0.0,38.0,25.0,49.0,AR2022-23_T5.4_construction
+DH,Dadra and Nagar Haveli and Daman and Diu,2022-23,1.0,AR2022-23_K_functional,1.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,AR2022-23_T5.4_construction
+GJ,Gujarat,2022-23,34.0,AR2022-23_K_functional,42.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,81.0,computed,23.0,0.0,3.0,3.0,2.0,11.0,28.0,14.0,AR2022-23_T5.4_construction
+HP,Himachal Pradesh,2022-23,6.0,AR2022-23_K_functional,4.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,,suppressed: functional exceeds sanctioned in source,1.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,AR2022-23_T5.4_construction
+JH,Jharkhand,2022-23,7.0,AR2022-23_K_functional,88.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,8.0,computed,21.0,0.0,2.0,38.0,0.0,27.0,23.0,65.0,AR2022-23_T5.4_construction
+JK,Jammu and Kashmir,2022-23,4.0,AR2022-23_K_functional,6.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,66.7,computed,2.0,0.0,2.0,0.0,2.0,0.0,6.0,0.0,AR2022-23_T5.4_construction
+KA,Karnataka,2022-23,12.0,AR2022-23_K_functional,12.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,12.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,AR2022-23_T5.4_construction
+KL,Kerala,2022-23,4.0,AR2022-23_K_functional,4.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,2.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,AR2022-23_T5.4_construction
+LA,Ladakh,2022-23,0.0,AR2022-23_K_functional,3.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,0.0,computed,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,AR2022-23_T5.4_construction
+MH,Maharashtra,2022-23,37.0,AR2022-23_K_functional,37.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,13.0,0.0,5.0,9.0,0.0,10.0,18.0,19.0,AR2022-23_T5.4_construction
+ML,Meghalaya,2022-23,0.0,AR2022-23_K_functional,27.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,0.0,computed,1.0,0.0,1.0,0.0,0.0,25.0,2.0,25.0,AR2022-23_T5.4_construction
+MN,Manipur,2022-23,3.0,AR2022-23_K_functional,21.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,14.3,computed,4.0,0.0,2.0,6.0,0.0,9.0,6.0,15.0,AR2022-23_T5.4_construction
+MP,Madhya Pradesh,2022-23,63.0,AR2022-23_K_functional,70.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,90.0,computed,32.0,0.0,0.0,30.0,0.0,8.0,32.0,38.0,AR2022-23_T5.4_construction
+MZ,Mizoram,2022-23,6.0,AR2022-23_K_functional,17.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,35.3,computed,6.0,0.0,0.0,5.0,0.0,6.0,6.0,11.0,AR2022-23_T5.4_construction
+NL,Nagaland,2022-23,3.0,AR2022-23_K_functional,22.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,13.6,computed,3.0,0.0,2.0,17.0,0.0,0.0,5.0,17.0,AR2022-23_T5.4_construction
+OR,Odisha,2022-23,32.0,AR2022-23_K_functional,104.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,30.8,computed,27.0,1.0,0.0,45.0,0.0,31.0,27.0,77.0,AR2022-23_T5.4_construction
+RJ,Rajasthan,2022-23,30.0,AR2022-23_K_functional,31.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,96.8,computed,17.0,7.0,1.0,6.0,0.0,0.0,18.0,13.0,AR2022-23_T5.4_construction
+SK,Sikkim,2022-23,4.0,AR2022-23_K_functional,4.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,AR2022-23_T5.4_construction
+TG,Telangana,2022-23,23.0,AR2022-23_K_functional,23.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,11.0,4.0,0.0,7.0,0.0,1.0,11.0,12.0,AR2022-23_T5.4_construction
+TN,Tamil Nadu,2022-23,8.0,AR2022-23_K_functional,8.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,7.0,0.0,0.0,0.0,0.0,1.0,7.0,1.0,AR2022-23_T5.4_construction
+TR,Tripura,2022-23,6.0,AR2022-23_K_functional,21.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,28.6,computed,4.0,0.0,3.0,10.0,0.0,4.0,7.0,14.0,AR2022-23_T5.4_construction
+UP,Uttar Pradesh,2022-23,2.0,AR2022-23_K_functional,4.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,50.0,computed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,AR2022-23_T5.4_construction
+UT,Uttarakhand,2022-23,4.0,AR2022-23_K_functional,4.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,100.0,computed,2.0,0.0,1.0,0.0,0.0,1.0,3.0,1.0,AR2022-23_T5.4_construction
+WB,West Bengal,2022-23,7.0,AR2022-23_K_functional,8.0,AR2022-23_T5.4_construction (Total/Total column),,reported,reported,87.5,computed,7.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,AR2022-23_T5.4_construction
+AP,Andhra Pradesh,2023-24,28.0,AR2023-24_AnnexIII_functional,28.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,13.0,5.0,1.0,8.0,0.0,1.0,14.0,14.0,AR2023-24_T4_construction
+AR,Arunachal Pradesh,2023-24,5.0,AR2023-24_AnnexIII_functional,10.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,50.0,computed,7.0,0.0,0.0,1.0,0.0,2.0,7.0,3.0,AR2023-24_T4_construction
+AS,Assam,2023-24,1.0,AR2023-24_AnnexIII_functional,14.0,AR2023-24_T4_construction (Total/Total column),,reported,"printed total column; the status columns in the same row add to 15 (source inconsistency, see issues register)",7.1,computed,0.0,1.0,4.0,6.0,0.0,4.0,4.0,10.0,AR2023-24_T4_construction
+BR,Bihar,2023-24,0.0,AR2023-24_AnnexIII_functional,3.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,0.0,computed,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,AR2023-24_T4_construction
+CT,Chhattisgarh,2023-24,74.0,AR2023-24_AnnexIII_functional,74.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,25.0,0.0,0.0,21.0,0.0,28.0,25.0,49.0,AR2023-24_T4_construction
+DH,Dadra and Nagar Haveli and Daman and Diu,2023-24,1.0,AR2023-24_AnnexIII_functional,1.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,AR2023-24_T4_construction
+GJ,Gujarat,2023-24,34.0,AR2023-24_AnnexIII_functional,43.0,AR2023-24_T4_construction (Total/Total column),,reported,"printed total column; the status columns in the same row add to 45 (source inconsistency, see issues register)",79.1,computed,25.0,0.0,1.0,3.0,2.0,14.0,28.0,15.0,AR2023-24_T4_construction
+HP,Himachal Pradesh,2023-24,4.0,AR2023-24_AnnexIII_functional,4.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,1.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,AR2023-24_T4_construction
+JH,Jharkhand,2023-24,7.0,AR2023-24_AnnexIII_functional,89.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,7.9,computed,21.0,8.0,2.0,44.0,0.0,14.0,23.0,66.0,AR2023-24_T4_construction
+JK,Jammu and Kashmir,2023-24,6.0,AR2023-24_AnnexIII_functional,6.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,2.0,0.0,3.0,0.0,1.0,0.0,6.0,0.0,AR2023-24_T4_construction
+KA,Karnataka,2023-24,12.0,AR2023-24_AnnexIII_functional,12.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,12.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,AR2023-24_T4_construction
+KL,Kerala,2023-24,4.0,AR2023-24_AnnexIII_functional,4.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,2.0,0.0,1.0,0.0,1.0,0.0,4.0,0.0,AR2023-24_T4_construction
+LA,Ladakh,2023-24,0.0,AR2023-24_AnnexIII_functional,3.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,0.0,computed,0.0,0.0,0.0,0.0,2.0,1.0,2.0,1.0,AR2023-24_T4_construction
+MH,Maharashtra,2023-24,37.0,AR2023-24_AnnexIII_functional,37.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,13.0,0.0,5.0,11.0,0.0,8.0,18.0,19.0,AR2023-24_T4_construction
+ML,Meghalaya,2023-24,0.0,AR2023-24_AnnexIII_functional,27.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,0.0,computed,1.0,0.0,1.0,10.0,0.0,15.0,2.0,25.0,AR2023-24_T4_construction
+MN,Manipur,2023-24,3.0,AR2023-24_AnnexIII_functional,21.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,14.3,computed,4.0,0.0,2.0,6.0,0.0,9.0,6.0,15.0,AR2023-24_T4_construction
+MP,Madhya Pradesh,2023-24,63.0,AR2023-24_AnnexIII_functional,70.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,90.0,computed,32.0,10.0,0.0,22.0,0.0,6.0,32.0,38.0,AR2023-24_T4_construction
+MZ,Mizoram,2023-24,6.0,AR2023-24_AnnexIII_functional,17.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,35.3,computed,6.0,0.0,0.0,5.0,0.0,6.0,6.0,11.0,AR2023-24_T4_construction
+NL,Nagaland,2023-24,3.0,AR2023-24_AnnexIII_functional,22.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,13.6,computed,3.0,0.0,2.0,17.0,0.0,0.0,5.0,17.0,AR2023-24_T4_construction
+OR,Odisha,2023-24,32.0,AR2023-24_AnnexIII_functional,106.0,AR2023-24_T4_construction (Total/Total column),,reported,"printed total column; the status columns in the same row add to 108 (source inconsistency, see issues register)",30.2,computed,27.0,11.0,0.0,44.0,0.0,26.0,27.0,79.0,AR2023-24_T4_construction
+RJ,Rajasthan,2023-24,30.0,AR2023-24_AnnexIII_functional,31.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,96.8,computed,17.0,8.0,1.0,5.0,0.0,0.0,18.0,13.0,AR2023-24_T4_construction
+SK,Sikkim,2023-24,4.0,AR2023-24_AnnexIII_functional,4.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,AR2023-24_T4_construction
+TG,Telangana,2023-24,23.0,AR2023-24_AnnexIII_functional,23.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,11.0,5.0,0.0,7.0,0.0,0.0,11.0,12.0,AR2023-24_T4_construction
+TN,Tamil Nadu,2023-24,8.0,AR2023-24_AnnexIII_functional,8.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,7.0,0.0,0.0,0.0,0.0,1.0,7.0,1.0,AR2023-24_T4_construction
+TR,Tripura,2023-24,6.0,AR2023-24_AnnexIII_functional,21.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,28.6,computed,4.0,2.0,3.0,8.0,0.0,4.0,7.0,14.0,AR2023-24_T4_construction
+UP,Uttar Pradesh,2023-24,2.0,AR2023-24_AnnexIII_functional,4.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,50.0,computed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,AR2023-24_T4_construction
+UT,Uttarakhand,2023-24,4.0,AR2023-24_AnnexIII_functional,4.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,100.0,computed,2.0,0.0,1.0,0.0,0.0,1.0,3.0,1.0,AR2023-24_T4_construction
+WB,West Bengal,2023-24,7.0,AR2023-24_AnnexIII_functional,8.0,AR2023-24_T4_construction (Total/Total column),,reported,reported,87.5,computed,7.0,0.0,0.0,0.0,1.0,0.0,8.0,0.0,AR2023-24_T4_construction

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tribal Education in India — EMRS &amp; AISHE</title>
+<meta name="description" content="Evidence-based geographic dashboard of Eklavya Model Residential Schools (EMRS) and Scheduled Tribe participation in higher education (AISHE), by State/UT.">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-section="emrs">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <div class="masthead__inner">
+    <div class="brand">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <div>
+        <p class="brand__title">Tribal Education in India</p>
+        <p class="brand__sub">State/UT evidence from official NESTS and AISHE publications</p>
+      </div>
+    </div>
+    <nav class="switch" role="tablist" aria-label="Choose education section">
+      <button role="tab" id="tab-emrs" aria-controls="main" aria-selected="true" data-section="emrs">
+        <span class="switch__k">School Education</span><span class="switch__s">EMRS</span>
+      </button>
+      <button role="tab" id="tab-aishe" aria-controls="main" aria-selected="false" data-section="aishe">
+        <span class="switch__k">Higher Education</span><span class="switch__s">AISHE</span>
+      </button>
+    </nav>
+    <a class="masthead__link" href="#methods">Data &amp; methods</a>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <section class="intro" aria-live="polite">
+    <p class="intro__eyebrow" id="introEyebrow"></p>
+    <h1 class="intro__title" id="introTitle"></h1>
+    <p class="intro__text" id="introText"></p>
+  </section>
+
+  <section class="atlas" aria-label="Map and State/UT detail">
+    <div class="panel panel--map">
+      <div class="controls">
+        <div class="control">
+          <span class="control__label" id="metricLabel">Indicator</span>
+          <div class="seg" id="metricSeg" role="radiogroup" aria-labelledby="metricLabel"></div>
+        </div>
+        <div class="control">
+          <span class="control__label" id="periodLabel">Reference year</span>
+          <div class="seg seg--period" id="periodSeg" role="radiogroup" aria-labelledby="periodLabel"></div>
+        </div>
+      </div>
+      <h2 class="map-title" id="mapTitle"></h2>
+      <p class="map-def" id="mapDef"></p>
+      <div class="map-wrap">
+        <svg id="map" role="img" aria-labelledby="mapTitle mapDef"></svg>
+        <div class="tooltip" id="tooltip" role="status" hidden></div>
+      </div>
+      <div class="legend" id="legend" aria-label="Map legend"></div>
+      <p class="map-note" id="mapNote"></p>
+    </div>
+
+    <aside class="panel panel--detail" id="detail" aria-live="polite">
+      <div class="detail__head">
+        <div>
+          <p class="detail__kicker" id="detailKicker"></p>
+          <h2 class="detail__title" id="detailTitle"></h2>
+        </div>
+        <button class="btn-clear" id="clearSel" type="button" hidden>Back to India</button>
+      </div>
+      <label class="picker">
+        <span class="visually-hidden">Choose a State or Union Territory</span>
+        <select id="statePicker"></select>
+      </label>
+      <div class="figures" id="figures"></div>
+      <div class="mini" id="mini"></div>
+      <p class="detail__note" id="detailNote"></p>
+    </aside>
+  </section>
+
+  <section class="panel compare" aria-labelledby="compareTitle">
+    <div class="compare__head">
+      <div>
+        <h2 id="compareTitle"></h2>
+        <p class="compare__sub" id="compareSub"></p>
+      </div>
+      <div class="compare__tools">
+        <div class="seg seg--small" role="radiogroup" aria-label="View as">
+          <button role="radio" aria-checked="true" data-view="chart">Chart</button>
+          <button role="radio" aria-checked="false" data-view="table">Table</button>
+        </div>
+        <a class="download" id="downloadLink" href="#" download>Download CSV</a>
+      </div>
+    </div>
+    <div id="rankChart" class="rank"></div>
+    <div id="rankTable" class="table-wrap" hidden>
+      <label class="search"><span class="visually-hidden">Search States/UTs</span><input id="tableSearch" type="search" placeholder="Search State/UT"></label>
+      <table class="data-table" id="dataTable"></table>
+    </div>
+  </section>
+
+  <section class="panel records" id="records" aria-labelledby="recordsTitle">
+    <h2 id="recordsTitle"></h2>
+    <p class="compare__sub" id="recordsSub"></p>
+    <div class="table-wrap" id="recordsBody"></div>
+  </section>
+
+  <section class="methods" id="methods" aria-labelledby="methodsTitle">
+    <h2 id="methodsTitle">Data &amp; methods</h2>
+    <div class="methods__grid">
+      <details open>
+        <summary>School Education — EMRS (NESTS)</summary>
+        <ul>
+          <li><b>Sources.</b> NESTS Annual Reports 2020-21, 2021-22, 2022-23 and 2023-24 (National Education Society for Tribal Students, Ministry of Tribal Affairs). The EMRS Guidelines (13 Nov 2020) and the NESTS Annual Calendar 2026 were inspected but contain no State/UT data.</li>
+          <li><b>What is counted.</b> “Functional” and “sanctioned” EMRSs are different measures and are never combined. Construction status describes school <em>buildings</em> (completed / under construction / yet to start) and is not the same as a school being functional.</li>
+          <li><b>Reference periods.</b> Each value is labelled with the annual report (financial year) it comes from. The 2023-24 values are “till 31 March 2024”.</li>
+          <li><b>Known source inconsistencies.</b> In 2023-24 the state rows of the construction table add to 694 sanctioned schools while the printed total is 699; in 2022-23 the Tamil Nadu total columns disagree with its own components; Himachal Pradesh 2022-23 lists more functional (6) than sanctioned (4) schools. All are shown as printed and logged.</li>
+          <li><b>School locations.</b> The reports contain no school identifiers or coordinates, so no school-point layer is drawn. Named schools are listed only where a report names them (buildings completed, foundation stones, inaugurations).</li>
+        </ul>
+      </details>
+      <details open>
+        <summary>Higher Education — AISHE</summary>
+        <ul>
+          <li><b>Sources.</b> AISHE State/UT tables for 2019-20 to 2023-24 (Ministry of Education), Tables 14, 19, 20, 38 and 1(a), extracted twice by independent pipelines with 0 differences across 8,928 cells.</li>
+          <li><b>Enrolment</b> is estimated enrolment in institutions located in the State/UT — not students’ home state.</li>
+          <li><b>ST share</b> = ST enrolment ÷ total enrolment (same table, same year). It is not the ST share of population.</li>
+          <li><b>GER</b> uses Census-2011-based population projections from 2020-21; 2019-20 used an older projection (all-India GER 27.1 vs 25.6 on the 2011 basis), so 2019-20 GER/GPI is excluded from maps and trends. Where a State/UT has no ST population, ST GER/GPI is “not applicable”, never 0.</li>
+          <li><b>Not available.</b> District- or institution-level ST enrolment is not published in these tables and is not estimated here.</li>
+        </ul>
+      </details>
+      <details>
+        <summary>Map, colours and missing values</summary>
+        <ul>
+          <li>Boundaries: DataMeet India community, <i>States/Admin2</i> (36 States/UTs after January 2020; J&amp;K and Ladakh updated per the Survey of India map, 2021), CC BY 4.0, simplified for display. Very small UTs are also marked with a dot so they can be selected.</li>
+          <li>Classes use fixed, documented breaks per indicator that do not change between years, so colours are comparable over time within one indicator.</li>
+          <li>Hatched areas have no record in the source table; they are not zeros. A printed 0 is shown in the lightest class.</li>
+          <li>The two sections are separate statistical systems; EMRS school counts and AISHE institution counts are never added or ranked together.</li>
+        </ul>
+      </details>
+    </div>
+    <p class="methods__files">Verified datasets: <a href="downloads/emrs_state_summary.csv">EMRS State/UT summary</a> · <a href="downloads/emrs_school_event_records.csv">EMRS named-school records</a> · <a href="downloads/aishe_state_year_enrolment.csv">AISHE enrolment</a> · <a href="downloads/aishe_state_year_ger_gpi.csv">AISHE GER/GPI</a> · <a href="downloads/aishe_state_year_institutions.csv">AISHE institutions</a> · <a href="downloads/tribal_universities_verified.csv">Tribal universities</a> · <a href="methods/methodology.md">Full methodology</a> · <a href="sources/sources.md">Source register</a></p>
+  </section>
+</main>
+<footer class="foot">
+  <p>Built 11 October 2026 from verified panels. Figures are reproduced from official publications; responsibility for underlying data rests with the publishing bodies. Map boundaries are for representation only.</p>
+</footer>
+<noscript><p class="noscript">This dashboard needs JavaScript. The verified data are available as CSV files in the <a href="downloads/">downloads</a> folder.</p></noscript>
+<script src="assets/js/d3.min.js"></script>
+<script src="geo/india_states.js"></script>
+<script src="data/meta.js"></script>
+<script src="data/emrs.js"></script>
+<script src="data/aishe.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
